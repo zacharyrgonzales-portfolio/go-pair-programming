@@ -14,19 +14,13 @@ Docker Dashboard CLI Tool is a command-line utility written in Go that provides 
 ### Steps
 
 1. Clone the repository:
-   \`\`\`bash
    git clone https://github.com/zacharyrgonzales-portfolio/docker-dashboard-cli.git
-   \`\`\`
 
 2. Navigate to the project directory:
-   \`\`\`bash
    cd docker-dashboard-cli
-   \`\`\`
 
 3. Build the tool:
-   \`\`\`bash
    go build -o docker-dashboard-cli
-   \`\`\`
 
 4. Optionally, add the binary to your PATH to use it from anywhere.
 
@@ -36,9 +30,7 @@ Docker Dashboard CLI Tool is a command-line utility written in Go that provides 
 
 To display the Docker dashboard, run the following command:
 
-\`\`\`bash
 ./docker-dashboard-cli dashboard
-\`\`\`
 
 ### Options and Flags
 
